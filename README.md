@@ -19,7 +19,7 @@ As seguintes bibliotecas foram cruciais para a análise exploratória de dados (
 | **Visualização** | `matplotlib` | Geração de gráficos estáticos para visualizações customizadas. |
 | **Visualização** | `seaborn` | Criação de visualizações estatísticas atrativas e informativas (EDA). |
 | **Modelagem** | `scikit-learn` | Implementação dos modelos K-Means e Isolation Forest. |
-| **Modelagem** | `tensorflow` ou `pytorch` | Implementação do modelo de Autoencoders (Deep Learning). |
+| **Modelagem** | `pytorch` | Implementação do modelo de Autoencoders (Deep Learning). |
 
 ### 🚀 Metodologia
 
@@ -38,7 +38,7 @@ O fluxo de trabalho seguiu as seguintes etapas:
 
 ### 📂 Como Executar
 
-1. Abra o arquivo principal do projeto (geralmente um *notebook* com extensão `.ipynb`) no **Google Colab**.
-2. Instale quaisquer bibliotecas não padrão, se necessário (geralmente via `!pip install ...`).
+1. Abra o arquivo principal do projeto  `.ipynb` no **Google Colab**.
+2. Instale quaisquer bibliotecas não padrão, se necessário.
 3. Execute as células em ordem para reproduzir a EDA, o pré-processamento e o treinamento dos modelos.
 
